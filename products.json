@@ -1,0 +1,146 @@
+[
+  {
+    "nama_produk": "Gurami",
+    "harga": 33000,
+    "gambar": "https://i.ibb.co/dGMNMgY/gurami.jpg",
+    "stok": 14,
+    "kategori": "ikan",
+    "id": "1"
+  },
+  {
+    "nama_produk": "Udang Ebi",
+    "harga": 25000,
+    "gambar": "https://i.ibb.co/C2d68hB/udang-ebi.jpg",
+    "stok": 9,
+    "kategori": "udang",
+    "id": "2"
+  },
+  {
+    "nama_produk": "Rajungan",
+    "harga": 126000,
+    "gambar": "https://i.ibb.co/rfQ1bQP/rajungan.jpg",
+    "stok": 51,
+    "kategori": "kepiting",
+    "id": "3"
+  },
+  {
+    "nama_produk": "Lobster",
+    "harga": 149000,
+    "gambar": "https://i.ibb.co/bv0KPyS/lobster.jpg",
+    "stok": 23,
+    "kategori": "lobster",
+    "id": "4"
+  },
+  {
+    "nama_produk": "Kepiting Bakau",
+    "harga": 115000,
+    "gambar": "https://i.ibb.co/yf50xFH/kepiting-bakau.jpg",
+    "stok": 86,
+    "kategori": "kepiting",
+    "id": "5"
+  },
+  {
+    "nama_produk": "Cumi - cumi",
+    "harga": 86000,
+    "gambar": "https://i.ibb.co/1vMT3TQ/cumi.jpg",
+    "stok": 96,
+    "kategori": "cumi",
+    "id": "6"
+  },
+  {
+    "nama_produk": "Kerang Simping",
+    "harga": 48000,
+    "gambar": "https://i.ibb.co/BBmnV7T/simping.jpg",
+    "stok": 78,
+    "kategori": "kerang",
+    "id": "7"
+  },
+  {
+    "nama_produk": "Kerang Dara",
+    "harga": 39500,
+    "gambar": "https://i.ibb.co/pyHS23V/dara.jpg",
+    "stok": 74,
+    "kategori": "kerang",
+    "id": "8"
+  },
+  {
+    "nama_produk": "Kerang Hijau",
+    "harga": 15500,
+    "gambar": "https://i.ibb.co/DfCN9b6/hijau.jpg",
+    "stok": 49,
+    "kategori": "kerang",
+    "id": "9"
+  },
+  {
+    "nama_produk": "Tuna",
+    "harga": 95000,
+    "gambar": "https://i.ibb.co/DYbmXzy/tuna.jpg",
+    "stok": 51,
+    "kategori": "ikan",
+    "id": "10"
+  },
+  {
+    "nama_produk": "Tongkol",
+    "harga": 70000,
+    "gambar": "https://i.ibb.co/PWf89Sj/tongkol.jpg",
+    "stok": 51,
+    "kategori": "ikan",
+    "id": "11"
+  },
+  {
+    "nama_produk": "Patin",
+    "harga": 32000,
+    "gambar": "https://i.ibb.co/31BBhd9/patin.jpg",
+    "stok": 51,
+    "kategori": "ikan",
+    "id": "12"
+  },
+  {
+    "nama_produk": "Nila Merah",
+    "harga": 46000,
+    "gambar": "https://i.ibb.co/x1rvxyv/nila-merah.jpg",
+    "stok": 51,
+    "kategori": "ikan",
+    "id": "13"
+  },
+  {
+    "nama_produk": "Nila Hitam",
+    "harga": 65000,
+    "gambar": "https://i.ibb.co/5htVyhg/nila-hitam.jpg",
+    "stok": 51,
+    "kategori": "ikan",
+    "id": "14"
+  },
+  {
+    "nama_produk": "Ikan Mas",
+    "harga": 30000,
+    "gambar": "https://i.ibb.co/ZYCPc8T/mas.jpg",
+    "stok": 21,
+    "kategori": "ikan",
+    "id": "15"
+  },
+  {
+    "nama_produk": "Kakap Merah",
+    "harga": 80000,
+    "gambar": "https://i.ibb.co/NF2Bzxy/kakap-merah.jpg",
+    "stok": 51,
+    "kategori": "ikan",
+    "id": "16"
+  },
+  {
+    "nama_produk": "Ikan Lele",
+    "harga": 26000,
+    "gambar": "https://i.ibb.co/9w1yFWF/lele.jpg",
+    "stok": 51,
+    "kategori": "ikan",
+    "id": "17"
+  },
+  {
+    "nama_produk": "Bawal",
+    "harga": 65000,
+    "gambar": "https://i.ibb.co/PCjnKFC/ikan-bawal.jpg",
+    "stok": 51,
+    "kategori": "ikan",
+    "id": "18"
+  }
+]

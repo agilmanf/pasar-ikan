@@ -1,0 +1,55 @@
+main {
+  min-height: calc(100vh - 62px);
+}
+
+body,
+html {
+  margin: 0 !important;
+}
+
+.left-content {
+  background: url("../img/login-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.left-content h2 {
+  font-size: 42px;
+}
+
+form {
+  max-width: 450px;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  color: rgb(58, 58, 58);
+  width: 100%;
+}
+
+input {
+  color: rgb(122, 122, 122);
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid rgb(194, 194, 194);
+}
+
+form button {
+  transform-origin: right;
+  transform: scale(1.1);
+}
+
+.signup {
+  position: absolute;
+  bottom: 50px;
+  right: 80px;
+}
+
+@media only screen and (max-width: 765px) {
+  .signup {
+    position: static;
+    text-align: center;
+  }
+}
